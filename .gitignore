@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Büyük dosyalar Drive da tutulur
+*.mp4
+*.zip
+veri/
+datasets/
